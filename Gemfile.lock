@@ -12,7 +12,7 @@ GEM
     coffee-script (2.4.1)
       coffee-script-source
       execjs
-    coffee-script-source (1.11.1)
+    coffee-script-source (1.11.2)
     colorator (1.1.0)
     commonmarker (0.17.13)
       ruby-enum (~> 0.5)
